@@ -66,14 +66,37 @@ The dataset includes marketing campaign results with the following fields:
 - **Visualization**: Provides a visual comparison of key performance metrics.
 
 ---
+## Hypotheses
+### Null Hypothesis (\(H_0\))
+There is no significant difference in performance metrics between Facebook and AdWords campaigns.
 
-## **📈 Conclusion**
-This project highlights the value of A/B testing in marketing by:
-1. Identifying high-performing strategies through data-driven analysis.
-2. Optimizing conversion rates and cost-effectiveness.
-3. Enabling informed decision-making to refine future campaigns.
+### Alternative Hypothesis (\(H_A\))
+There is a significant difference in performance metrics, favoring one platform over the other.
 
-The results from this analysis can significantly improve marketing ROI and drive better customer engagement.
+---
+
+## Key Findings
+1. **Engagement**:
+   - Facebook achieves a **higher click-through rate (2.20%)** compared to AdWords (1.30%).
+   - AdWords generates a **higher absolute number of clicks** (60.4 clicks/day) than Facebook (44.0 clicks/day).
+
+2. **Conversions**:
+   - Facebook has a **higher conversion rate (27.15%)** compared to AdWords (10.18%).
+   - Facebook generates 11.7 conversions/day, while AdWords generates 6 conversions/day.
+
+3. **Cost-Efficiency**:
+   - Facebook has a **lower cost per click ($2.18)** compared to AdWords ($2.38).
+   - Facebook delivers better value for ROI-focused campaigns.
+
+---
+
+## Conclusion
+- **Facebook** is ideal for campaigns prioritizing **cost efficiency** and **conversion rates**.
+- **AdWords** is better for campaigns focused on **high visibility** and **traffic generation**.
+
+### Recommendation
+- Allocate more budget to **Facebook** for ROI-focused campaigns.
+- Use **AdWords** for brand awareness and traffic-driving campaigns.
 
 ---
 
