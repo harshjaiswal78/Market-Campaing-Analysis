@@ -100,7 +100,4 @@ There is a significant difference in performance metrics, favoring one platform 
 
 ---
 
-## **🚀 How to Run**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AB_Testing_Marketing_Campaigns.git
+
