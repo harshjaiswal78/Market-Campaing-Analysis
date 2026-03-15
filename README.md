@@ -167,11 +167,8 @@ It doubled AdWords' conversion rate, making it ideal for **action-oriented campa
 
 ---
 
-## 👨‍💻 Author
 
-**[Your Name]**  
-Data Analyst | Marketing Optimization Enthusiast  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 ---
 
